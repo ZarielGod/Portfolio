@@ -1,0 +1,33 @@
+* {
+		margin:0; /*zera todos as margens externas dos elementos */
+		padding:0;/*zera todas as margebs  internas dos elementos*/
+}
+body{
+	/*background-color:fuchsia; */
+	
+}
+	
+
+	section#container{
+		width : 1000px; /*largura dacaixa*/
+		height : 2000px; /*largura da caisa*/
+		Background-color:rgb(0, 255, 229); /*cor da caixa*/
+		border:1px solid rgb(255, 0, 0); /* espessura da borda, tipo de borda e cor da borda*/
+		margin:auto;/*centralia a conteiner de acorco com a largura do dispositivo*/
+	}
+	section#conteiner h1{
+		font-family: Arial; /*tipo de fonte*/
+		font-size: 30px; /* tamanho de fonte*/;
+		font-weight: 400; /*força do negrito*/
+		
+
+
+	}
+div#formacao{
+	div#formacao{
+		width : 1000px; /*largura dacaixa*/
+		height : 2000px; /*largura da caisa*/
+	
+	div#formacao}
+
+} 
